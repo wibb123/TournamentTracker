@@ -1,7 +1,5 @@
 # Tournament Tracker
 
-![Tournament Tracker](tournament-tracker.png)
-
 Tournament Tracker is a versatile application based on Tim Corey's youtube video that simplifies the management and tracking of various tournaments.
 
 ## Features
